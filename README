@@ -1,0 +1,7 @@
+/*
+Here it is described that how you can display a notification while following the tutorial series at 
+
+	https://www.youtube.com/playlist?list=PLGCjwl1RrtcQ3o2jmZtwu2wXEA4OIIq53
+Many of us are finding difficulties displaying the Friend Request Notification while following this series as it is old and many of the node.js and AndroidStudio methods have been depricated since the tutorial was uploaded. 
+the code being presented here is working fine on the day August 06,2018.
+*/
